@@ -19,4 +19,7 @@
 </h3>
 
 ## Conclusão do Bootcamp: 02/08/2022
-![Certificado de Conclusão](https://github.com/veigarj/Santander_FullStack_Developer-Public/blob/main/Certificado-Santander-Bootcamp-Fullstack.png)
+
+<div align="center">
+<img src="https://github.com/veigarj/Santander_FullStack_Developer-Public/blob/main/Certificado-Santander-Bootcamp-Fullstack.png"> 
+</div>
